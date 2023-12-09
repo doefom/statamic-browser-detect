@@ -1,5 +1,6 @@
 {
     "name": "doefom/statamic-browser-detect",
+    "license": "MIT License",
     "autoload": {
         "psr-4": {
             "Doefom\\StatamicBrowserDetect\\": "src"
