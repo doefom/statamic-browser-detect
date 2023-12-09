@@ -1,0 +1,22 @@
+{
+    "name": "doefom/statamic-browser-detect",
+    "autoload": {
+        "psr-4": {
+            "Doefom\\StatamicBrowserDetect\\": "src"
+        }
+    },
+    "extra": {
+        "statamic": {
+            "name": "Statamic Browser Detect",
+            "description": "Statamic Browser Detect addon"
+        },
+        "laravel": {
+            "providers": [
+                "Doefom\\StatamicBrowserDetect\\ServiceProvider"
+            ]
+        }
+    },
+    "require": {
+        "hisorange/browser-detect": "^5.0"
+    }
+}
