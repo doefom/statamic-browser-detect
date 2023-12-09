@@ -1,7 +1,7 @@
 # Statamic Browser Detect
 
 A Statamic tag as a wrapper for the composer package `hisorange/browser-detect`
-(https://github.com/hisorange/browser-detect).
+(https://github.com/hisorange/browser-detect) to use in your antlers templates.
 
 ## Features
 
