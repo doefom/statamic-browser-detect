@@ -1,10 +1,11 @@
 # Statamic Browser Detect
 
-A wrapper for `hisorange/browser-detect` (https://github.com/hisorange/browser-detect).
+A Statamic tag as a wrapper for the composer package `hisorange/browser-detect`
+(https://github.com/hisorange/browser-detect).
 
 ## Features
 
-This provides a tag that can be used in antlers templates to find out all sorts of information about the requesting
+This addon provides a tag that can be used in antlers templates to find out all sorts of information about the requesting
 browser, device, operating system and more.
 
 ## How to Install

@@ -1,6 +1,7 @@
 {
     "name": "doefom/statamic-browser-detect",
-    "license": "MIT License",
+    "description": "A Statamic tag as a wrapper for the composer package `hisorange/browser-detect` (https://github.com/hisorange/browser-detect).",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Doefom\\StatamicBrowserDetect\\": "src"
