@@ -27,7 +27,7 @@ https://github.com/hisorange/browser-detect#available-api-calls
 In your antlers template you may use the tag like so:
 
 ```text
-{{ if browser:isMobile }}
+{{ if {browser:isMobile} }}
    <p>It's a mobile device!</p>
 {{ /if }}
 ```
